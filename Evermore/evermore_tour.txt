@@ -1,7 +1,11 @@
 New Evermore tour.
+<<<<<<< HEAD
 All songs.
 Tpur dates : 
 2.3.2022.
 5.6.2022.
 
 hahha :D
+=======
+All songs.
+>>>>>>> 43e55f124dcd7d2396f2a98dd14f96a8b850c989
